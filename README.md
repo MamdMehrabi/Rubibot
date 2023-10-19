@@ -1,2 +1,4 @@
 # Rubibot
-Asynchronous library for making self-made Rubik's bots
+library rubibot for crate bot's in Rubika App
+<hr style="color: yellow;">
+## TEST
