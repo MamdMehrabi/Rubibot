@@ -1,5 +1,5 @@
 import os
-from requests import session
+from connection import session
 from random import random, randint
 
 class BaseMethod:
